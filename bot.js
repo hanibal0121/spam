@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("614865184481345570")
+let channel =     client.channels.get("616726847132008496")
 setInterval(function() {
-channel.send(`money money money money`);
+channel.send(`https://discord.gg/sxerPvN`);
 }, 30)
 })
 
